@@ -1,23 +1,30 @@
 # Daily-Transaction
 Objective:● Analyze daily financial transactions to identify trends, patterns, and insights.
           ● Generate a comprehensive report with visualizations.
+          
 ## technology used
   Jupyter Notebook 
+  
 ## steps
 Step 1: Import Libraries and Load Data
-Step2:DataCleaning
-● Handlemissingvalues.
-● Correctdatatypes.
-● Removeduplicates.
-Step3:ExploratoryDataAnalysis(EDA)
-● Summarystatistics.
-● Distributionof transactionamounts.
-● Transactioncountsbycategoryandtype.
+
+Step2:Data Cleaning
+● Handle missing values.
+● Correct data types.
+● Remove duplicates.
+
+Step3:Exploratory Data Analysis(EDA)
+● Summary statistics.
+● Distribution of transaction amounts.
+● Transaction counts by category and type.
+
 Step 4: Time Series Analysis
 ● Trend analysis.
 ● Monthly and daily trends
+
 Step 5: Correlation Analysis
 ● Analyze the correlation between transaction categories and amounts.
+
 Step 6: Generate Report
 ● Summarize findings and visualizations.
 
@@ -33,6 +40,7 @@ Spending behavior is highly skewed, with few transactions contributing a large p
 Expense tracking at a daily level helps identify high-impact days.
 Category-wise analysis highlights essential vs discretionary spending.
 Monthly and daily trend analysis is useful for budget planning and cash flow management.
+
 ## 1. Executive Summary
 The dataset represents a personal or small business financial record characterized by a high volume of small, frequent expenses and occasional, high-value income or maturity events. The financial activity remained relatively stable until mid-2017, after which it saw significant volatility and several large-scale transactions.
 
