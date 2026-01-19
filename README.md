@@ -2,10 +2,10 @@
 Objective:● Analyze daily financial transactions to identify trends, patterns, and insights.
           ● Generate a comprehensive report with visualizations.
           
-## technology used
+## Technology Used
   Jupyter Notebook 
   
-## steps
+## Steps
 Step 1: Import Libraries and Load Data
 
 Step2:Data Cleaning
